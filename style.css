@@ -1,0 +1,7 @@
+body {overflow-x: hidden;
+margin: 0px;}
+.grayscale{
+   
+        filter: grayscale(100%);
+      
+}
